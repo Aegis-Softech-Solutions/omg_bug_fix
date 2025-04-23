@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <style>
+            .newLineheight {
+                line-height: 30px;
+            }
+        </style>
+    </head>
+    <body>
+        <div class="newLineheight">
+            <div style="font-family: inherit; text-align: inherit"><span style="font-family: georgia, serif">Hello oMG,</span></div>
+            <div style="font-family: inherit; text-align: inherit"><span style="font-family: georgia, serif">You have received a new message:</span></div>
+            <ul>
+                <li color="rgb(83, 101, 242)" style="text-align: inherit; font-family: georgia, serif; color: rgb(83, 101, 242)"><span style="font-family: georgia, serif; color: #5365f2"><strong>Name:</strong></span><span style="font-family: georgia, serif; color: #000000"> {{name}}</span></li>
+                <li style="text-align: inherit; font-family: georgia, serif"><span style="font-family: georgia, serif; color: #5365f2"><strong>e-mail:</strong></span><span style="font-family: georgia, serif"> {{email}}</span></li>
+                <li style="text-align: inherit; font-family: georgia, serif"><span style="font-family: georgia, serif; color: #5365f2"><strong>Phone:</strong></span><span style="font-family: georgia, serif"> {{phone}}</span></li>
+                <li style="text-align: inherit; font-family: georgia, serif"><span style="font-family: georgia, serif; color: #5365f2"><strong>Subject:</strong></span><span style="font-family: georgia, serif"> {{subject}}</span></li>
+                <li color="rgb(83, 101, 242)" style="text-align: inherit; font-family: georgia, serif; color: rgb(83, 101, 242)"><span style="font-family: georgia, serif; color: #5365f2"><strong>Message: </strong></span><span style="font-family: georgia, serif; color: #a415ff"><br />{{message}}</span></li>
+            </ul>
+            <div style="font-family: inherit; text-align: inherit"><span style="font-family: georgia, serif">You can also visit the CMS portal to view this message, and take appropriate action on it.</span></div>
+            <div style="font-family: inherit; text-align: inherit"><br></div>
+        </div>
+    </body>
+</html>

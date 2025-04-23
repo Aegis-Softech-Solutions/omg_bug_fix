@@ -1,0 +1,31 @@
+{
+  "app.userAuth.signIn": "Sign In",
+
+  "sidebar.catalog": "Catalog",
+  "sidebar.catalog.productCategories": "Categories",
+  "sidebar.catalog.products": "Products",
+  "sidebar.catalog.filters": "Filters",
+  "sidebar.catalog.options": "Options",
+  "sidebar.catalog.attributes": "Attributes",
+  "sidebar.catalog.attributes.attributes": "Attributes",
+  "sidebar.catalog.attributes.attributeGroups": "Attribute Groups",
+
+  "sidebar.sales": "Sales",
+  "sidebar.sales.orders": "Orders",
+  "sidebar.sales.returns": "Returns",
+
+  "sidebar.settings": "Settings",
+  "sidebar.settings.vendorCategories": "Order Statuses",
+  "sidebar.settings.returnStatuses": "Return Statuses",
+  "sidebar.settings.returnReasons": "Return Reasons",
+
+  "sidebar.instruments": "Instruments",
+  "sidebar.clients": "Clients",
+  "sidebar.userManagement": "User Management",
+  "sidebar.adminManagement": "Admin Management",
+  "sidebar.customerManagement": "Customer Management",
+  "sidebar.pendingTasks": "Pending Tasks",
+  "sidebar.allTasks": "All Tasks",
+  "sidebar.myCalendar": "My Calendar",
+  "sidebar.miscellaneous": "Miscellaneous"
+}

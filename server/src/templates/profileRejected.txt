@@ -1,0 +1,337 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html data-editor-version="2" class="sg-campaigns" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+  <!--[if !mso]><!-->
+  <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+  <!--<![endif]-->
+  <!--[if (gte mso 9)|(IE)]>
+      <xml>
+        <o:OfficeDocumentSettings>
+          <o:AllowPNG/>
+          <o:PixelsPerInch>96</o:PixelsPerInch>
+        </o:OfficeDocumentSettings>
+      </xml>
+      <![endif]-->
+  <!--[if (gte mso 9)|(IE)]>
+  <style type="text/css">
+    body {width: 600px;margin: 0 auto;}
+    table {border-collapse: collapse;}
+    table, td {mso-table-lspace: 0pt;mso-table-rspace: 0pt;}
+    img {-ms-interpolation-mode: bicubic;}
+  </style>
+<![endif]-->
+
+  <link href='https://fonts.googleapis.com/css2?family=Ubuntu' rel='stylesheet'>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <style type="text/css">
+    body,
+    p,
+    div {
+      font-family: Ubuntu, Helvetica, sans-serif;
+      font-size: 14px;
+    }
+
+    body {
+      font-family: Ubuntu, Helvetica, sans-serif;
+      color: #000000;
+    }
+
+    body a {
+      color: #1188E6;
+      text-decoration: none;
+    }
+
+    p {
+      margin: 0;
+      padding: 0;
+    }
+
+    table.wrapper {
+      width: 100% !important;
+      table-layout: fixed;
+      -webkit-font-smoothing: antialiased;
+      -webkit-text-size-adjust: 100%;
+      -moz-text-size-adjust: 100%;
+      -ms-text-size-adjust: 100%;
+    }
+
+    img.max-width {
+      max-width: 100% !important;
+    }
+
+    .column.of-2 {
+      width: 50%;
+    }
+
+    .column.of-3 {
+      width: 33.333%;
+    }
+
+    .column.of-4 {
+      width: 25%;
+    }
+
+    @media screen and (max-width:480px) {
+
+      .preheader .rightColumnContent,
+      .footer .rightColumnContent {
+        text-align: left !important;
+      }
+
+      .preheader .rightColumnContent div,
+      .preheader .rightColumnContent span,
+      .footer .rightColumnContent div,
+      .footer .rightColumnContent span {
+        text-align: left !important;
+      }
+
+      .preheader .rightColumnContent,
+      .preheader .leftColumnContent {
+        font-size: 80% !important;
+        padding: 5px 0;
+      }
+
+      table.wrapper-mobile {
+        width: 100% !important;
+        table-layout: fixed;
+      }
+
+      img.max-width {
+        height: auto !important;
+        max-width: 100% !important;
+      }
+
+      a.bulletproof-button {
+        display: block !important;
+        width: auto !important;
+        font-size: 80%;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+      }
+
+      .columns {
+        width: 100% !important;
+      }
+
+      .column {
+        display: block !important;
+        width: 100% !important;
+        padding-left: 0 !important;
+        padding-right: 0 !important;
+        margin-left: 0 !important;
+        margin-right: 0 !important;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <center class="wrapper" data-link-color="#1188E6"
+    data-body-style="font-size:14px; font-family: Ubuntu, Helvetica, sans-serif; color:#000000; background-color:#FFFFFF;">
+    <div class="webkit">
+      <table cellpadding="0" cellspacing="0" border="0" width="100%" class="wrapper" bgcolor="#FFFFFF">
+        <tbody>
+          <tr>
+            <td valign="top" bgcolor="#FFFFFF" width="100%">
+              <table width="100%" role="content-container" class="outer" align="center" cellpadding="0" cellspacing="0"
+                border="0">
+                <tbody>
+                  <tr>
+                    <td width="100%">
+                      <table width="100%" cellpadding="0" cellspacing="0" border="0">
+                        <tbody>
+                          <tr>
+                            <td>
+                              <!--[if mso]>
+                                <center>
+                                <table><tr><td width="600">
+                              <![endif]-->
+                              <table width="100%" cellpadding="0" cellspacing="0" border="0"
+                                style="width:100%; max-width:600px;" align="center">
+                                <tbody>
+                                  <tr>
+                                    <td role="modules-container"
+                                      style="padding:0px 0px 0px 0px; color:#000000; text-align:left;" bgcolor="#FFFFFF"
+                                      width="100%" align="left">
+                                      <table class="module preheader preheader-hide" role="module" data-type="preheader"
+                                        border="0" cellpadding="0" cellspacing="0" width="100%"
+                                        style="display: none !important; mso-hide: all; visibility: hidden; opacity: 0; color: transparent; height: 0; width: 0;">
+                                        <tbody>
+                                          <tr>
+                                            <td role="module-content">
+                                              <p></p>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+
+                                      <table border="0" cellpadding="0" cellspacing="0" align="center" width="100%"
+                                        role="module" data-type="columns" style="padding:30px 20px 30px 20px;"
+                                        bgcolor="#151513">
+                                        <tbody>
+                                          <tr role="module-content">
+                                            <td height="100%" valign="top">
+                                              <table class="column" width="540"
+                                                style="width:540px; border-spacing:0; border-collapse:collapse; margin:0px 10px 0px 10px;"
+                                                cellpadding="0" cellspacing="0" align="left" border="0" bgcolor="">
+                                                <tbody>
+                                                  <tr>
+                                                    <td style="padding:0px;margin:0px;border-spacing:0;">
+                                                      <table class="wrapper" role="module" data-type="image" border="0"
+                                                        cellpadding="0" cellspacing="0" width="100%"
+                                                        style="table-layout: fixed;"
+                                                        data-muid="d8508015-a2cb-488c-9877-d46adf313282">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td
+                                                              style="font-size:6px; line-height:10px; padding:0px 0px 0px 0px;"
+                                                              valign="top" align="center">
+                                                              <img class="max-width" border="0"
+                                                                style="display:block; color:#000000; text-decoration:none; font-size:16px;"
+                                                                width="275" alt="omg"
+                                                                data-proportionally-constrained="true"
+                                                                data-responsive="false"
+                                                                src="https://api.omgfaceoftheyear.com/public/images/logo/logo-horizontal-black-bg-curved.png">
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+
+                                                      <table class="module" role="module" data-type="spacer" border="0"
+                                                        cellpadding="0" cellspacing="0" width="100%"
+                                                        style="table-layout: fixed;"
+                                                        data-muid="27716fe9-ee64-4a64-94f9-a4f28bc172a0">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td style="padding:0px 0px 15px 0px;" role="module-content"
+                                                              bgcolor="">
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+
+                                                      <table class="module" role="module" data-type="text" border="0"
+                                                        cellpadding="0" cellspacing="0" width="100%"
+                                                        style="table-layout: fixed;"
+                                                        data-muid="948e3f3f-5214-4721-a90e-625a47b1c957"
+                                                        data-mc-module-version="2019-10-22">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td
+                                                              style="padding:50px 30px 18px 30px; line-height:36px; text-align:inherit; background-color:#ffffff; border-top-left-radius: 50px; border-bottom-right-radius: 50px;"
+                                                              height="100%" valign="top" bgcolor="#ffffff"
+                                                              role="module-content">
+                                                              <div>
+                                                                <span style="font-size: 16px"><strong>Dear {{name}},</strong></span><br>
+                                                                <span style="font-size: 16px">Greetings of the day !</span><br><br>
+
+                                                                <span style="font-size: 14px">We regret to inform you that due to non-compliance of all the guidelines, your profile could not be activated.</span><br>
+                                                                <span style="font-size: 14px">It is our humble request to you, to go through all the guidelines and upload the images and furnish the data as required.</span><br>
+                                                                <span style="font-size: 14px"><strong>Reason for rejection:</strong> {{reject_reason}}</span><br><br>
+                                                                <span style="font-size: 14px">Login Page: http://omgfaceoftheyear.com/login</span><br>
+                                                              </div>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+
+                                                      <table class="module" role="module" data-type="text" border="0"
+                                                        cellpadding="0" cellspacing="0" width="100%"
+                                                        style="table-layout: fixed;"
+                                                        data-muid="a10dcb57-ad22-4f4d-b765-1d427dfddb4e"
+                                                        data-mc-module-version="2019-10-22">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td
+                                                              style="padding:18px 30px 18px 30px; line-height:22px; text-align:inherit; color:#ffea96;"
+                                                              height="100%" valign="top"
+                                                              role="module-content">
+                                                              <div>
+                                                                <span style="font-size: 12px"><strong>For any queries:</strong> info@omgfaceoftheyear.com</span><br><br>
+                                                                <span style="font-size: 12px">Follow Us:
+                                                                  <a href="https://www.facebook.com/omg.foy">
+                                                                    <img height="20" alt="omg" src="https://api.omgfaceoftheyear.com/public/images/social-media/facebook.png">
+                                                                  </a>
+                                                                  <a href="https://www.instagram.com/omg.foy/">
+                                                                    <img height="20" alt="omg" src="https://api.omgfaceoftheyear.com/public/images/social-media/instagram.png">
+                                                                  </a>
+                                                                  &nbsp;
+                                                                  <a href="https://www.youtube.com/channel/UCu5HqCmSVNgY0hpYpXPwJcQ">
+                                                                    <img height="20" alt="omg" src="https://api.omgfaceoftheyear.com/public/images/social-media/youtube.png">
+                                                                  </a>
+                                                                  &nbsp;
+                                                                  <a href="https://twitter.com/omgfoy">
+                                                                    <img height="20" alt="omg" src="https://api.omgfaceoftheyear.com/public/images/social-media/twitter.png">
+                                                                  </a>
+                                                                </span>
+                                                              </div>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+
+                                                      <table class="module" role="module" data-type="text" border="0"
+                                                        cellpadding="0" cellspacing="0" width="100%"
+                                                        style="table-layout: fixed;"
+                                                        data-muid="a10dcb57-ad22-4f4d-b765-1d427dfddb4e"
+                                                        data-mc-module-version="2019-10-22">
+                                                        <tbody>
+                                                          <tr>
+                                                            <td
+                                                              style="padding:18px 30px 18px 30px; line-height:22px; text-align:inherit; color:#ffea96;"
+                                                              height="100%" valign="top"
+                                                              role="module-content">
+                                                              <div>
+                                                                <span style="font-size: 14px">Regards,<br>OMG - Face Of The Year&nbsp;</span>
+                                                              </div>
+                                                            </td>
+                                                          </tr>
+                                                        </tbody>
+                                                      </table>
+
+                                                      <table class="module" role="module" data-type="spacer" border="0" cellpadding="0" cellspacing="0" width="100%" style="table-layout: fixed;" data-muid="7770fdab-634a-4f62-a277-1c66b2646d8d">
+                                                        <tbody>
+                                                          <tr><td style="padding:0px 0px 20px 0px;" role="module-content"></td></tr>
+                                                        </tbody>
+                                                      </table>
+                                                    </td>
+                                                  </tr>
+                                                </tbody>
+                                              </table>
+                                            </td>
+                                          </tr>
+                                        </tbody>
+                                      </table>
+                                    </td>
+                                  </tr>
+                                </tbody>
+                              </table>
+                              <!--[if mso]>
+                                    </td>
+                                  </tr>
+                                </table>
+                              </center>
+                              <![endif]-->
+                            </td>
+                          </tr>
+                        </tbody>
+                      </table>
+                    </td>
+                  </tr>
+                </tbody>
+              </table>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </center>
+
+
+</body>
+
+</html>
